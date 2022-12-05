@@ -1,4 +1,4 @@
-module razutils
+module github.com/razsteinmetz/raz-utils
 
 go 1.19
 
