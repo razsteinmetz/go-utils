@@ -14,7 +14,6 @@ For some functions to work the items in the queue must be comparable.  However, 
 type can be added to the queue.
 
 Not copyright and no warranty is made - use at your own discretion
-
 */
 
 type Queue struct {
